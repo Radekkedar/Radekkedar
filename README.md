@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hejka 👋
 
-<!--
-**Radekkedar/Radekkedar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jestem studentem Informatyki i systemow inteligentnych na AGH
 
-Here are some ideas to get you started:
+##### Jezyki programowania ktore znam to
+C
+Python  
+W przyszlosci bede uczyl sie rowzniez Javy oraz C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Szkoly ktore ukonczylem to 
+II liceum ogolnoksztalcace w Przemyslu
+Gimnazjum w Dubiecku
+
+ 
+
